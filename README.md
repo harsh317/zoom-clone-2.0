@@ -20,5 +20,8 @@ https://user-images.githubusercontent.com/66161239/125756026-ae72e99b-171a-4155-
 - npm server.js
 - Go to LocalHost:3030
 
+## tutorial
+https://medium.com/nerd-for-tech/full-stack-zoom-clone-943289af8f7d
+
 ## Wanna allow Other people to join
 - Use ngrok or deploy your app on heroku
